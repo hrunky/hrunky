@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- I'm Hayden White
+
+- 👨‍🎓 Studying Computer and Electrical Engineering at the ## University of Kentucky
+- 📞 How to reach me:
+      - hcwh228@uky.edu
+      - 859.227.2516
 <!--
 **hrunky/hrunky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
