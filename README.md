@@ -2,7 +2,7 @@
 
 - I'm Hayden White
 
-- 👨‍🎓 Studying Computer and Electrical Engineering at the ## University of Kentucky
+- 👨‍🎓 Studying Computer and Electrical Engineering at the University of Kentucky
 - 📞 How to reach me:
       - hcwh228@uky.edu
       - 859.227.2516
